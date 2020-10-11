@@ -14,4 +14,4 @@ a.	This final function attaches the contents of the new variable to the containe
 
 A “Generate Password” button was created in the html for the user to click, and an event listener was created in the JS code which initiates the RetrievePassword function when clicked. One the required user input is collected, the remaining functions are executed and the password is displayed. 
 
-
+https://andrewmiddleton1.github.io/Bootcamp-Homework-Week-3/
